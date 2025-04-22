@@ -10,8 +10,9 @@
 
 #### 3 Centre Interdisciplinaire de Recherche sur le Cerveau et l’Apprentissage, Montréal, Québec, Canada 
 
-####Corresponding author: 
+#### Corresponding author: 
+#### Simona Maria Brambati
+#### Simona.maria.brambati@umontreal.ca
+#### 514-922-8587
 
-####Simona Maria Brambati 
-####simona.maria.brambati@umontreal.ca 
-####514-922-8587 
+
