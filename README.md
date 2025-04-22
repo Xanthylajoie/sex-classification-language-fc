@@ -1,4 +1,4 @@
-### Can we classify men and women based on the functional connectivity patterns of the language network?  
+### Sex classification based on the functional connectivity patterns of the language network: a resting state fMRI study 
 
 #### Lajoie, X1,2., DeRoy, C2,3., Bedetti, C., Picard, M1,2., Hétu, S2,3., Bellec, P1,2., Brambati, S.M1,2 
 
@@ -10,8 +10,8 @@
 
 #### 3 Centre Interdisciplinaire de Recherche sur le Cerveau et l’Apprentissage, Montréal, Québec, Canada 
 
-#### Corresponding author: 
+####Corresponding author: 
 
-#### Xanthy Lajoie 
-#### xanthy.lajoie@umontreal.ca 
-#### https://orcid.org/0000-0001-7060-3171  
+####Simona Maria Brambati 
+####simona.maria.brambati@umontreal.ca 
+####514-922-8587 
