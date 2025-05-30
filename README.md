@@ -1,6 +1,6 @@
 ### Sex classification based on the functional connectivity patterns of the language network: a resting state fMRI study 
 
-#### Lajoie, X1,2., DeRoy, C2,3., Bedetti, C., Picard, M1,2., Hétu, S2,3., Bellec, P1,2., Brambati, S.M1,2 
+#### Lajoie, X1,2., DeRoy, C2,3., Bedetti, C.1,2, Houzé, B.1,2, Hétu, S2,3.,Picard, M1,2., Bellec, P1,2., Brambati, S.M1,2  
 
 #### Author affiliations: 
 
